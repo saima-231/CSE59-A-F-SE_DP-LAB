@@ -127,6 +127,9 @@ The system is a standalone web and mobile-friendly application that can integrat
 
 # 4. System Models
 
+> * **CONTEXT DIAGRAM**
+<img src="images/Context.png">
+
 **Context:** Users interact with the system, AI prediction engine, notification services, grocery store APIs, and payment systems.
 
 **Activity Flow:**
