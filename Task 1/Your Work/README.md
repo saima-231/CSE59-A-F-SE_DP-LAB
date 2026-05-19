@@ -3,15 +3,15 @@
 
 # Software Requirements Specification (SRS)
 
-# Smart Grocery Prediction System – Version 2.0
+# Smart Grocery Prediction System
 
 ----------
 
 # Revision History
 
--   Version 2.0 – Initial draft
--   Version 2.1 – Added AI prediction and analytics details
--   Version 2.2 – Updated cloud deployment and integration notes
+-   Version 1.0 – Initial draft
+-   Version 1.1 – Added AI prediction and analytics details
+-   Version 1.2 – Updated cloud deployment and integration notes
 
 ----------
 
